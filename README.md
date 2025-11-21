@@ -20,6 +20,8 @@
 
 ---
 
+Supervised by Quentin Stievenar (https://qstievenart.gitlab.io/)
+
 ## 1. Présentation
 
 Ce projet a été réalisé dans le cadre du cours **INF6200** durant la session d'été 2025, sous la supervision du professeur **Quentin Stiévenart**. L’objectif est de comparer différents **analyseurs statiques** afin de détecter des **vulnérabilités**, en particulier les **buffer overflows**, sur des fichiers tests ainsi que sur des projets open-source comme **Coreutils** et **BusyBox**.
