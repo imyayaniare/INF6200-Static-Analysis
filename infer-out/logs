@@ -1,0 +1,73 @@
+[89529][      debug] Sqlite write daemon: starting up
+[89529][      debug] Sqlite write daemon: set up complete, waiting for connections
+[89530][      debug] Sqlite write daemon: process starting, pid= 89530
+[89529][environment] CWD = /home/yaya/Documents/COURS_UQAM/INF6200/inf6200
+[89529][environment] No .inferconfig file found
+[89529][environment] Project root = /home/yaya/Documents/COURS_UQAM/INF6200/inf6200
+[89529][environment] INFER_ARGS =   @/tmp/args.tmp.72d48d --progress-bar-style multiline
+[89529][environment] command line arguments:   infer run -- gcc -I include -c darknet/src/blas.c
+[89529][environment] Available memory at startup: 10385 MB
+[89529][environment] Active checkers: self-in-block (C/C++/ObjC), parameter-not-null-checked (C/C++/ObjC), starvation (C/C++/ObjC, Java), siof (C/C++/ObjC), racerd (C/C++/ObjC, C#/.Net, Java), pulse (C/C++/ObjC, C#/.Net, Erlang, Hack, Java, Python), liveness (C/C++/ObjC), inefficient-keyset-iterator (Java), fragment-retains-view (Java)
+[89529][environment] Scheduler: restart
+[89529][environment] Cores used: 8
+[89529][environment] Infer version v1.2.0
+[89529][environment] Copyright 2009 - present Facebook. All Rights Reserved.
+[89529][environment] 
+[89529][   progress] Capturing in make/cc mode...
+[89529][      debug] 
+[89529][      debug] *** Beginning capture of file /home/yaya/Documents/COURS_UQAM/INF6200/inf6200/darknet/src/blas.c ***
+[89529][      debug] Elapsed: 104ms.
+[89529][      debug] 
+[89529][ extern err] Error: the following clang command did not run successfully:
+[89529][ extern err]     /opt/infer/lib/infer/facebook-clang-plugins/clang/install/bin/clang-18
+[89529][ extern err]     @/home/yaya/Documents/COURS_UQAM/INF6200/inf6200/infer-out/tmp/clang_command_.tmp.e9d35e.txt
+[89529][ extern err]   ++Contents of '/home/yaya/Documents/COURS_UQAM/INF6200/inf6200/infer-out/tmp/clang_command_.tmp.e9d35e.txt':
+[89529][ extern err]     "-cc1" "-load"
+[89529][ extern err]     "/opt/infer/lib/infer/infer/bin/../../facebook-clang-plugins/libtooling/build/FacebookClangPlugin.dylib"
+[89529][ extern err]     "-add-plugin" "BiniouASTExporter" "-plugin-arg-BiniouASTExporter" "-"
+[89529][ extern err]     "-plugin-arg-BiniouASTExporter" "PREPEND_CURRENT_DIR=1"
+[89529][ extern err]     "-plugin-arg-BiniouASTExporter" "MAX_STRING_SIZE=65535" "-cc1" "-triple"
+[89529][ extern err]     "x86_64-unknown-linux-gnu" "-emit-obj" "-mrelax-all" "-disable-free"
+[89529][ extern err]     "-clear-ast-before-backend" "-disable-llvm-verifier"
+[89529][ extern err]     "-discard-value-names" "-main-file-name" "blas.c" "-mrelocation-model"
+[89529][ extern err]     "pic" "-pic-level" "2" "-pic-is-pie" "-mframe-pointer=all" "-fmath-errno"
+[89529][ extern err]     "-ffp-contract=on" "-fno-rounding-math" "-mconstructor-aliases"
+[89529][ extern err]     "-funwind-tables=2" "-target-cpu" "x86-64" "-tune-cpu" "generic"
+[89529][ extern err]     "-debugger-tuning=gdb"
+[89529][ extern err]     "-fdebug-compilation-dir=/home/yaya/Documents/COURS_UQAM/INF6200/inf6200"
+[89529][ extern err]     "-fcoverage-compilation-dir=/home/yaya/Documents/COURS_UQAM/INF6200/inf6200"
+[89529][ extern err]     "-resource-dir"
+[89529][ extern err]     "/opt/infer/lib/infer/facebook-clang-plugins/clang/install/lib/clang/18"
+[89529][ extern err]     "-include"
+[89529][ extern err]     "/opt/infer/lib/infer/infer/bin/../lib/clang_wrappers/global_defines.h"
+[89529][ extern err]     "-I" "include" "-internal-isystem"
+[89529][ extern err]     "/opt/infer/lib/infer/facebook-clang-plugins/clang/install/lib/clang/18/include"
+[89529][ extern err]     "-internal-isystem" "/usr/local/include" "-internal-isystem"
+[89529][ extern err]     "/usr/lib/gcc/x86_64-linux-gnu/14/../../../../x86_64-linux-gnu/include"
+[89529][ extern err]     "-internal-externc-isystem" "/usr/include/x86_64-linux-gnu"
+[89529][ extern err]     "-internal-externc-isystem" "/include" "-internal-externc-isystem"
+[89529][ extern err]     "/usr/include" "-Wno-ignored-optimization-argument" "-Wno-everything"
+[89529][ extern err]     "-ferror-limit" "19" "-fgnuc-version=4.2.1" "-fskip-odr-check-in-gmf"
+[89529][ extern err]     "-D__GCC_HAVE_DWARF2_CFI_ASM=1" "-o" "blas.o" "-x" "c"
+[89529][ extern err]     "darknet/src/blas.c" "-O0" "-fno-builtin" "-include"
+[89529][ extern err]     "/opt/infer/lib/infer/infer/bin/../lib/clang_wrappers/global_defines.h"
+[89529][ extern err]     "-Wno-everything"
+[89529][ extern err]   
+[89529][ extern err] 
+[89530][      debug] Detected 0 spec overwrites.
+[89530][      debug] Sqlite write daemon: terminating
+[89529][      debug] Sqlite write daemon: waiting for process 89530 to finish
+[89530][      debug] dbwriter.useful_time_user= 0.00189300
+[89530][      debug] dbwriter.useful_time_sys= 0.00188700
+[89530][      debug] dbwriter.useful_time_wall= 0.00527129
+[89530][      debug] dbwriter.useful_time_oncpu_pct= 72%
+[89530][      debug] dbwriter.store_sql_user= 0.00000000
+[89530][      debug] dbwriter.store_sql_sys= 0.00000000
+[89530][      debug] dbwriter.store_sql_wall= 0.00000000
+[89530][      debug] dbwriter.store_sql_oncpu_pct= 0%
+[89530][      debug] dbwriter.store_sql_pct= 0%
+[89530][      debug] dbwriter.total_time_user= 0.00821500
+[89530][      debug] dbwriter.total_time_sys= 0.00358800
+[89530][      debug] dbwriter.total_time_wall= 0.12002387
+[89530][      debug] dbwriter.total_time_oncpu_pct= 10%
+[89530][      debug] [89529][      debug] Sqlite write daemon: process 89530 terminated

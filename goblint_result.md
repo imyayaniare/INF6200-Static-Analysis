@@ -1,0 +1,38 @@
+```bash
+[Info][Imprecise] Invalidating expressions: (time_t *)((void *)0) (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:85:5-85:32)
+[Info][Imprecise] Invalidating expressions: & tmp (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:85:5-85:32)
+[Error][Imprecise][Unsound] Function definition missing for printLine (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:87:5-87:35)
+[Info][Imprecise] INVALIDATING ALL GLOBALS! (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:87:5-87:35)
+[Info][Imprecise] Invalidating expressions: (char const   *)"Calling good()..." (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:87:5-87:35)
+[Error][Imprecise][Unsound] Function definition missing for printLine (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:59:9-59:53)
+[Info][Imprecise] INVALIDATING ALL GLOBALS! (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:59:9-59:53)
+[Info][Imprecise] Invalidating expressions: (char const   *)((char *)structCharVoid.voidSecond) (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:59:9-59:53)
+[Error][Imprecise][Unsound] Function definition missing for printLine (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:63:9-63:52)
+[Info][Imprecise] INVALIDATING ALL GLOBALS! (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:63:9-63:52)
+[Info][Imprecise] Invalidating expressions: (char const   *)(structCharVoid.charFirst) (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:63:9-63:52)
+[Error][Imprecise][Unsound] Function definition missing for printLine (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:64:9-64:53)
+[Info][Imprecise] INVALIDATING ALL GLOBALS! (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:64:9-64:53)
+[Info][Imprecise] Invalidating expressions: (char const   *)((char *)structCharVoid.voidSecond) (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:64:9-64:53)
+[Error][Imprecise][Unsound] Function definition missing for printLine (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:89:5-89:33)
+[Info][Imprecise] INVALIDATING ALL GLOBALS! (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:89:5-89:33)
+[Info][Imprecise] Invalidating expressions: (char const   *)"Finished good()" (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:89:5-89:33)
+[Error][Imprecise][Unsound] Function definition missing for printLine (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:92:5-92:34)
+[Info][Imprecise] INVALIDATING ALL GLOBALS! (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:92:5-92:34)
+[Info][Imprecise] Invalidating expressions: (char const   *)"Calling bad()..." (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:92:5-92:34)
+[Error][Imprecise][Unsound] Function definition missing for printLine (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:40:9-40:53)
+[Info][Imprecise] INVALIDATING ALL GLOBALS! (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:40:9-40:53)
+[Info][Imprecise] Invalidating expressions: (char const   *)((char *)structCharVoid.voidSecond) (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:40:9-40:53)
+[Error][Imprecise][Unsound] Function definition missing for printLine (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:44:9-44:52)
+[Info][Imprecise] INVALIDATING ALL GLOBALS! (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:44:9-44:52)
+[Info][Imprecise] Invalidating expressions: (char const   *)(structCharVoid.charFirst) (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:44:9-44:52)
+[Error][Imprecise][Unsound] Function definition missing for printLine (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:45:9-45:53)
+[Info][Imprecise] INVALIDATING ALL GLOBALS! (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:45:9-45:53)
+[Info][Imprecise] Invalidating expressions: (char const   *)((char *)structCharVoid.voidSecond) (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:45:9-45:53)
+[Error][Imprecise][Unsound] Function definition missing for printLine (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:94:5-94:32)
+[Info][Imprecise] INVALIDATING ALL GLOBALS! (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:94:5-94:32)
+[Info][Imprecise] Invalidating expressions: (char const   *)"Finished bad()" (CWE121_Stack_Based_Buffer_Overflow__char_type_overrun_memcpy_01.c:94:5-94:32)
+[Info][Deadcode] Logical lines of code (LLoC) summary:
+  live: 28
+  dead: 0
+  total lines: 28
+```

@@ -1,0 +1,16 @@
+{"int":{"is_main_process":1,"pid":89529,"time":1753811675,"value":10385},"normal":{"command":"run","event":"count.startup_mem_avail_MB","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}
+{"int":{"is_main_process":1,"pid":89529,"time":1753811675,"value":5},"normal":{"command":"run","event":"time.run_prologue","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}
+{"int":{"is_main_process":1,"pid":89530,"time":1753811676,"value":0},"normal":{"command":"run","event":"count.overwritten_specs","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}
+{"int":{"is_main_process":1,"pid":89530,"time":1753811676,"value":1886},"normal":{"command":"run","event":"time.dbwriter.useful_time_sys","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}
+{"int":{"is_main_process":1,"pid":89530,"time":1753811676,"value":1893},"normal":{"command":"run","event":"time.dbwriter.useful_time_user","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}
+{"int":{"is_main_process":1,"pid":89530,"time":1753811676,"value":5271},"normal":{"command":"run","event":"time.dbwriter.useful_time_wall","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}
+{"int":{"is_main_process":1,"pid":89530,"time":1753811676,"value":72},"normal":{"command":"run","event":"count.dbwriter.useful_time_oncpu_pct","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}
+{"int":{"is_main_process":1,"pid":89530,"time":1753811676,"value":0},"normal":{"command":"run","event":"time.dbwriter.store_sql_sys","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}
+{"int":{"is_main_process":1,"pid":89530,"time":1753811676,"value":0},"normal":{"command":"run","event":"time.dbwriter.store_sql_user","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}
+{"int":{"is_main_process":1,"pid":89530,"time":1753811676,"value":0},"normal":{"command":"run","event":"time.dbwriter.store_sql_wall","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}
+{"int":{"is_main_process":1,"pid":89530,"time":1753811676,"value":0},"normal":{"command":"run","event":"count.dbwriter.store_sql_oncpu_pct","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}
+{"int":{"is_main_process":1,"pid":89530,"time":1753811676,"value":0},"normal":{"command":"run","event":"count.dbwriter.store_sql_pct","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}
+{"int":{"is_main_process":1,"pid":89530,"time":1753811676,"value":3588},"normal":{"command":"run","event":"time.dbwriter.total_time_sys","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}
+{"int":{"is_main_process":1,"pid":89530,"time":1753811676,"value":8215},"normal":{"command":"run","event":"time.dbwriter.total_time_user","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}
+{"int":{"is_main_process":1,"pid":89530,"time":1753811676,"value":120023},"normal":{"command":"run","event":"time.dbwriter.total_time_wall","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}
+{"int":{"is_main_process":1,"pid":89530,"time":1753811676,"value":10},"normal":{"command":"run","event":"count.dbwriter.total_time_oncpu_pct","hostname":"yaya-Inspiron-15-5518","infer_commit":"4c53e80"},"tags":{}}

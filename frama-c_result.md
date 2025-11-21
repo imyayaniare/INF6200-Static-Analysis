@@ -1,0 +1,1201 @@
+```bash
+[kernel] Parsing preprocessed.c (with preprocessing)
+[kernel:unknown-attribute] /usr/include/stdio.h:158: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:160: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:164: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:184: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:211: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:216: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:228: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:271: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:299: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:306: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:314: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:320: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:334: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:334: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:339: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:339: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:345: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:345: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:349: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:349: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:357: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:372: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:422: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:430: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:463: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:468: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:490: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:502: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:540: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:548: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:575: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:576: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:589: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:600: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:611: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:612: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:627: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:635: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:643: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:646: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:654: Warning: 
+  Unknown attribute: __access__
+[kernel:unknown-attribute] /usr/include/stdio.h:654: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:694: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:697: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:707: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:717: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:731: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:738: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:745: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:766: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:769: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:779: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:785: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:790: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:803: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:809: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:829: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:835: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:860: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:860: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:862: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:862: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:864: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:864: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:868: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:868: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:869: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:869: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:870: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:870: Warning: 
+  Unknown attribute: __nonnull__
+[kernel] Warning: unexpected statement attribute cold
+[kernel] Warning: unexpected statement attribute cold
+[kernel:unknown-attribute] /usr/include/stdio.h:883: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:883: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:888: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:888: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:897: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:911: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:911: Warning: 
+  Unknown attribute: __access__
+[kernel:unknown-attribute] /usr/include/stdio.h:941: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:941: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:945: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:945: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdio.h:948: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdio.h:948: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:98: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:102: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:102: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/stdlib.h:102: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:105: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:105: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/stdlib.h:105: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:108: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:108: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/stdlib.h:108: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:113: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:113: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/stdlib.h:113: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:118: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:118: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:124: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:124: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:127: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:127: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:177: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:177: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:181: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:181: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:188: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:188: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:193: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:193: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:201: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:201: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:206: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:206: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:505: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:508: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:508: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/stdlib.h:508: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:typing:implicit-function-declaration] /usr/include/x86_64-linux-gnu/bits/byteswap.h:37: Warning: 
+  __builtin_bswap16 is a compiler builtin, only allowed for GCC-based machdeps; see option -machdep or run 'frama-c -machdep help' for the list of available machdeps
+[kernel:typing:implicit-function-declaration] /usr/include/x86_64-linux-gnu/bits/byteswap.h:52: Warning: 
+  __builtin_bswap32 is a compiler builtin, only allowed for GCC-based machdeps; see option -machdep or run 'frama-c -machdep help' for the list of available machdeps
+[kernel:typing:implicit-function-declaration] /usr/include/x86_64-linux-gnu/bits/byteswap.h:73: Warning: 
+  __builtin_bswap64 is a compiler builtin, only allowed for GCC-based machdeps; see option -machdep or run 'frama-c -machdep help' for the list of available machdeps
+[kernel:unknown-attribute] /usr/include/stdlib.h:521: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:524: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:530: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:530: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:535: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:535: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:554: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:554: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:557: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:557: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:560: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:560: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:565: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:565: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:573: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:575: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:579: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:587: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:588: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:588: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:591: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:592: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:592: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:596: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:597: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:597: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:601: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:602: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:602: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:604: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:604: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:621: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:621: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:623: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:623: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:628: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:628: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:631: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:631: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:637: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:637: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:640: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:640: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:646: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:646: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:649: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:649: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:652: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:652: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:657: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:661: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:661: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:666: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:672: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:672: Warning: 
+  Unknown attribute: __alloc_size__
+[kernel:unknown-attribute] /usr/include/stdlib.h:675: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:675: Warning: 
+  Unknown attribute: __alloc_size__
+[kernel:unknown-attribute] /usr/include/stdlib.h:683: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:683: Warning: 
+  Unknown attribute: __alloc_size__
+[kernel:unknown-attribute] /usr/include/stdlib.h:687: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:695: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:695: Warning: 
+  Unknown attribute: __alloc_size__
+[kernel:unknown-attribute] /usr/include/stdlib.h:701: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/alloca.h:32: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:712: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:712: Warning: 
+  Unknown attribute: __alloc_size__
+[kernel:unknown-attribute] /usr/include/stdlib.h:718: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:718: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:724: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:724: Warning: 
+  Unknown attribute: __alloc_align__
+[kernel:unknown-attribute] /usr/include/stdlib.h:724: Warning: 
+  Unknown attribute: __alloc_size__
+[kernel:unknown-attribute] /usr/include/stdlib.h:730: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:734: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:734: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:742: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:742: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:749: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:749: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:756: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:762: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:768: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:773: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:773: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:786: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:786: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:792: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:792: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:796: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:796: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:803: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:814: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:814: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:827: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:849: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:870: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:870: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:940: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:960: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:970: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:980: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:981: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:984: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:992: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:994: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:998: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1012: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1012: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1018: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1018: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1024: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1024: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1030: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1030: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1033: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1033: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1036: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1036: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1042: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1042: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1045: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1045: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1049: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1049: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1053: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1053: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1062: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1065: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1069: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1073: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1073: Warning: 
+  Unknown attribute: __access__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1077: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1077: Warning: 
+  Unknown attribute: __access__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1088: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1088: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1099: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1099: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1145: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/stdlib.h:1145: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/time.h:72: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:76: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:79: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:83: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:100: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:100: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/time.h:117: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:133: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:137: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:155: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:160: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:180: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:184: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:198: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:203: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:229: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:247: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:264: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:272: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:286: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:289: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:289: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/time.h:293: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:293: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/time.h:339: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:344: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:349: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:353: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:358: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:377: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:384: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/time.h:384: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:43: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:43: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:47: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:47: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:54: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:54: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:54: Warning: 
+  Unknown attribute: __access__
+[kernel:unknown-attribute] /usr/include/string.h:61: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:61: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:64: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:64: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:64: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:80: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:80: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:80: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:107: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:107: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:107: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:141: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:141: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:144: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:144: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:149: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:149: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:152: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:152: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:156: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:156: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:156: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:159: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:159: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:159: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:163: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:163: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:163: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:166: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:166: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:166: Warning: 
+  Unknown attribute: __access__
+[kernel:unknown-attribute] /usr/include/string.h:175: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:175: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:175: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:179: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:179: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:179: Warning: 
+  Unknown attribute: __access__
+[kernel:unknown-attribute] /usr/include/string.h:187: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:187: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:195: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:195: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:246: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:246: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:246: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:273: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:273: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:273: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:286: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:286: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:286: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:293: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:293: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:293: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:297: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:297: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:297: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:323: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:323: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:323: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:350: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:350: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:350: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:356: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:356: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:361: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:361: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:366: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:366: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:380: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:380: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:380: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:389: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:389: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:389: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:389: Warning: 
+  Unknown attribute: __access__
+[kernel:unknown-attribute] /usr/include/string.h:397: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:397: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:400: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:400: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:407: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:407: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:407: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:413: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:413: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/string.h:413: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:419: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:432: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:432: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:432: Warning: 
+  Unknown attribute: __access__
+[kernel:unknown-attribute] /usr/include/string.h:458: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/strings.h:34: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/strings.h:34: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/strings.h:34: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/strings.h:38: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/strings.h:38: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/strings.h:42: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/strings.h:42: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/strings.h:68: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/strings.h:68: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/strings.h:68: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/strings.h:96: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/strings.h:96: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/strings.h:96: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/strings.h:104: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/strings.h:110: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/strings.h:111: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/strings.h:116: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/strings.h:116: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/strings.h:116: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/strings.h:120: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/strings.h:120: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/strings.h:120: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/strings.h:128: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/strings.h:128: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/strings.h:128: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/strings.h:133: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/strings.h:133: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/strings.h:133: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:466: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:466: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:466: Warning: 
+  Unknown attribute: __access__
+[kernel:unknown-attribute] /usr/include/string.h:471: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:471: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:478: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:489: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:489: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:491: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:491: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:496: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:496: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:499: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:499: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:506: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:506: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:506: Warning: 
+  Unknown attribute: __access__
+[kernel:unknown-attribute] /usr/include/string.h:512: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/string.h:512: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/string.h:512: Warning: 
+  Unknown attribute: __access__
+[kernel:unknown-attribute] /usr/include/ctype.h:79: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:81: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:83: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:108: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:109: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:110: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:111: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:112: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:113: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:114: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:115: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:116: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:117: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:118: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:122: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:125: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:130: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:142: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:146: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:150: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:151: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:251: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:252: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:253: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:254: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:255: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:256: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:257: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:258: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:259: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:260: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:261: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:263: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:267: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:268: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:271: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/ctype.h:272: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/fcntl.h:209: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/fcntl.h:233: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/fcntl.h:255: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/fcntl.h:301: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:205: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:205: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:210: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:210: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:264: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:264: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:313: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:313: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:352: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:352: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:359: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:359: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:365: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:371: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:371: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:380: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:389: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:389: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:396: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:396: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:404: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:404: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:411: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:411: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:418: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:418: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:425: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:425: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:433: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:433: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/x86_64-linux-gnu/sys/stat.h:452: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:98: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:98: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/wchar.h:103: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:103: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/wchar.h:109: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:109: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/wchar.h:109: Warning: 
+  Unknown attribute: __access__
+[kernel:unknown-attribute] /usr/include/wchar.h:115: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:115: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/wchar.h:115: Warning: 
+  Unknown attribute: __access__
+[kernel:unknown-attribute] /usr/include/wchar.h:121: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:121: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/wchar.h:125: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:125: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/wchar.h:130: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:130: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/wchar.h:130: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/wchar.h:133: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:133: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/wchar.h:133: Warning: 
+  Unknown attribute: __nonnull__
+[kernel:unknown-attribute] /usr/include/wchar.h:138: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:141: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:146: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:149: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:155: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:159: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:168: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:174: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:178: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:189: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:189: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/wchar.h:199: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:199: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/wchar.h:212: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:212: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/wchar.h:216: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:216: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/wchar.h:226: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:226: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/wchar.h:237: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:237: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/wchar.h:242: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:247: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:247: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/wchar.h:265: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:265: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/wchar.h:278: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:278: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/wchar.h:283: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:283: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/wchar.h:287: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:292: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:296: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:309: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:313: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:317: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:317: Warning: 
+  Unknown attribute: __pure__
+[kernel:unknown-attribute] /usr/include/wchar.h:321: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:326: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:330: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:332: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:362: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:368: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:376: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:382: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:402: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:407: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:409: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:455: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:460: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:468: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:475: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:689: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:694: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:718: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:725: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:742: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:763: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:783: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:826: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:863: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:908: Warning: 
+  Unknown attribute: __leaf__
+[kernel:unknown-attribute] /usr/include/wchar.h:1043: Warning: 
+  Unknown attribute: __leaf__
+[variadic:libc:frama-c] Warning: 
+  Unable to locate function __va_fcntl_void which should be in the Frama-C LibC.
+[variadic:libc:frama-c] Warning: 
+  Unable to locate function __va_fcntl_int which should be in the Frama-C LibC.
+[variadic:libc:frama-c] Warning: 
+  Unable to locate function __va_fcntl_flock which should be in the Frama-C LibC.
+[variadic:libc:frama-c] Warning: 
+  Unable to locate function __va_open_void which should be in the Frama-C LibC.
+[variadic:libc:frama-c] Warning: 
+  Unable to locate function __va_open_mode_t which should be in the Frama-C LibC.
+[variadic:libc:frama-c] Warning: 
+  Unable to locate function __va_openat_void which should be in the Frama-C LibC.
+[variadic:libc:frama-c] Warning: 
+  Unable to locate function __va_openat_mode_t which should be in the Frama-C LibC.
+```
